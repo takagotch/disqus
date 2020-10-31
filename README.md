@@ -1,7 +1,6 @@
 ### disqus 
 ---
-https://disqus.com/home/
-
+https://disqus.com/by/takagotch/
 
 
 https://github.com/disqus
