@@ -1,6 +1,8 @@
 ### disqus 
 ---
-https://disqus.com/
+https://disqus.com/home/
+
+
 
 https://github.com/disqus
 
